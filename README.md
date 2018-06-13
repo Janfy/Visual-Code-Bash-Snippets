@@ -186,3 +186,8 @@ Render:
           -h    Affiche ce message
       EOF
     }
+    
+# Snippets available for other editors
+
+- [SublimeText](https://github.com/Janfy/Sublime-Bash-Snippets)
+- [Atom](https://github.com/Janfy/Atom-Bash-Snippets)
